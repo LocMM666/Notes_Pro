@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "719870017505",
+    "project_id": "note-pro-e9f49",
+    "storage_bucket": "note-pro-e9f49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719870017505:android:4a574ffdd4439702475ca0",
+        "android_client_info": {
+          "package_name": "com.lucky.notepro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719870017505-jep1cpqe2om84047f0nsrnc66uq3ocu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACVEH7vkOBdLGYoeXqafnkStgzjT2Eeo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719870017505-jep1cpqe2om84047f0nsrnc66uq3ocu4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
